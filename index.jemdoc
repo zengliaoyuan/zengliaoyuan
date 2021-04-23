@@ -19,7 +19,7 @@ Nonlinear optimization and its applications: first-order methods for large-scale
 
 
 == Publications
-. Liaoyuan Zeng, Peiran Yu and Ting Kei Pong. [https://arxiv.org/abs/2007.12821 Analysis and algorithms for some compressed sensing models based on L1/L2 minimization.] Submitted July 2020.
+. Liaoyuan Zeng, Peiran Yu and Ting Kei Pong. [https://arxiv.org/abs/2007.12821 Analysis and algorithms for some compressed sensing models based on L1/L2 minimization.] To appear in SIAM. J. Optim.
 . Chen Chen, Ting Kei Pong, Lulin Tan and Liaoyuan Zeng. [https://link.springer.com/article/10.1007/s10898-020-00899-8 A difference-of-convex approach for split feasibility with applications to matrix factorizations and outlier detection.] J. Global Optim. 78, 2020, pp. 107-136. See the [https://arxiv.org/abs/1903.01101 ArXiv] version for a fix of an error in Lemma 4 and Proposition 5: changed full rank to rank r in the former, and added compactness assumption to the latter.
 . Liaoyuan Zeng, Yu-Hong Dai and Ya-Kui Huang. [https://global-sci.org/intro/article_detail/jcm/13041.html Convergence Rate of Gradient Descent Method for Multi-Objective Optimization.] J. Comp. Math. 37, 2019, pp. 689-703.
 
