@@ -3,14 +3,14 @@
 = Welcome to my home page!
 
 ~~~
-{}{img_left}{photos/pic6.jpg}{alt text}{278px}{298px}
+{}{img_left}{photos/pic8.jpg}{alt text}{260px}{266px}
 = [https://lyzeng.com/ Liaoyuan Zeng] 
 
 Postdoctoral Fellow, [https://www.polyu.edu.hk/ama/ AMA], [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University]
 
-Email: lyzeng 'at' polyu.edu.hk
+Email: lyzeng `at' polyu.edu.hk
 
-I received my Bachelor degree in 2013 from the [http://www-en.hnu.edu.cn/index.htm Hunan University], School of Mathematics. I got my PhD degree in June 2018, under the supervision of Professor [http://lsec.cc.ac.cn/~dyh/ Yu-Hong Dai] in [http://english.amss.cas.cn/ Academy of Mathematics and Systems Science] of [http://english.cas.cn/ Chinese Academy of Sciences]. From October 2018 to October 2019, I was a postdoctoral fellow at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University], under the mentorship of Professor [https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm Xiaojun Chen]. Now I am a postdoctoral fellow, working with Professor [https://www.polyu.edu.hk/ama/profile/pong/ Ting Kei Pong] at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University].
+I received my Bachelor degree in June 2013 from the [http://www-en.hnu.edu.cn/index.htm Hunan University], School of Mathematics. I got my PhD degree in June 2018, under the supervision of Professor [http://lsec.cc.ac.cn/~dyh/ Yu-Hong Dai] in [http://english.amss.cas.cn/ Academy of Mathematics and Systems Science] of [http://english.cas.cn/ Chinese Academy of Sciences]. From October 2018 to October 2019, I was a postdoctoral fellow at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University], under the mentorship of Professor [https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm Xiaojun Chen]. Now I am a postdoctoral fellow, working with Professor [https://www.polyu.edu.hk/ama/profile/pong/ Ting Kei Pong] at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University].
 ~~~
 
 
@@ -18,7 +18,7 @@ I received my Bachelor degree in 2013 from the [http://www-en.hnu.edu.cn/index.h
 Nonlinear optimization and its applications: first-order methods for large-scale (convex or nonconvex) problems.
 
 == Publications
-. Liaoyuan Zeng, Peiran Yu and Ting Kei Pong. [https://epubs.siam.org/doi/abs/10.1137/20M1355380 Analysis and algorithms for some compressed sensing models based on L1/L2 minimization.] SIAM J. Optim. 31, 2021, pp. 1576-1603.
+. Liaoyuan Zeng, Peiran Yu and Ting Kei Pong. [https://epubs.siam.org/doi/abs/10.1137/20M1355380 Analysis and algorithms for some compressed sensing models based on L1/L2 minimization.] SIAM J. Optim. 31, 2021, pp. 1576-1603. [https://www.polyu.edu.hk/ama/profile/pong/MBA_l1vl2/ code]
 . Chen Chen, Ting Kei Pong, Lulin Tan and Liaoyuan Zeng. [https://link.springer.com/article/10.1007/s10898-020-00899-8 A difference-of-convex approach for split feasibility with applications to matrix factorizations and outlier detection.] J. Global Optim. 78, 2020, pp. 107-136. See the [https://arxiv.org/abs/1903.01101 ArXiv] version for a fix of minor errors in Lemma 4 and Proposition 5.
 . Liaoyuan Zeng, Yu-Hong Dai and Ya-Kui Huang. [https://global-sci.org/intro/article_detail/jcm/13041.html Convergence Rate of Gradient Descent Method for Multi-Objective Optimization.] J. Comp. Math. 37, 2019, pp. 689-703.
 
