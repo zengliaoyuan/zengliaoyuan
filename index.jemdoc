@@ -12,7 +12,7 @@
 
 Email: lyzeng `at' polyu.edu.hk
 
-== Background
+== About me
 
 I received my Bachelor degree in 2013 from the [http://www-en.hnu.edu.cn/index.htm Hunan University], School of Mathematics. I got my PhD degree in 2018, under the supervision of Professor [http://lsec.cc.ac.cn/~dyh/ Yu-Hong Dai] in [http://english.amss.cas.cn/ Academy of Mathematics and Systems Science] of [http://english.cas.cn/ Chinese Academy of Sciences]. I was a postdoctoral fellow at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University], under the mentorship of Professor [https://www.polyu.edu.hk/ama/staff/xjchen/ChenXJ.htm Xiaojun Chen] during October 2018 to October 2019. Now I am a postdoctoral fellow, working with Professor [https://www.polyu.edu.hk/ama/profile/pong/ Ting Kei Pong] at [https://www.polyu.edu.hk/ The Hong Kong Polytechnic University].
 #~~~
@@ -20,6 +20,9 @@ I received my Bachelor degree in 2013 from the [http://www-en.hnu.edu.cn/index.h
 
 == Research Interest
 Nonlinear optimization and its applications: first-order methods for large-scale (convex or nonconvex) problems.
+
+== Preprints
+. Liaoyuan Zeng and Ting Kei Pong. [https://arxiv.org/abs/2109.01829  $\rho$-regularization subproblems: Strong duality and an eigensolver-based algorithm.] ~\[[https://www.polyu.edu.hk/ama/profile/pong/RW_rho/ code]\]
 
 == Publications
 . Liaoyuan Zeng, Peiran Yu and Ting Kei Pong. [https://epubs.siam.org/doi/abs/10.1137/20M1355380 Analysis and algorithms for some compressed sensing models based on L1/L2 minimization.] SIAM J. Optim. 31, 2021, pp. 1576-1603. ~\[[https://www.polyu.edu.hk/ama/profile/pong/MBA_l1vl2/ code]\]
