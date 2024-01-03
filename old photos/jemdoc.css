@@ -8,12 +8,11 @@ table#tlayout {
 
 body {
 	background: white;
-    /* font-family: Verdana, Helvetica, Arial, sans-serif; */
+    font-family: Verdana, Helvetica, Arial, sans-serif;
 	/*font-family: Monaco, Menlo, Consolas, "Courier New", monospace;*/
-	font-family: Optima, Candara, Calibri, Arial, sans-serif; 
 	padding-top: 1em;
 	padding-bottom: 8px;
-	font-size: 15px;
+	font-size: 14px;
     line-height:1.4;
 	margin: 0;
 }
@@ -61,24 +60,20 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #0000FF;
-	/*text-decoration: none; */
+	color: #4169E1;
+	text-decoration: none;
 }
 
 a:hover {
 	border-bottom: 1px gray dotted;
 }
 
-#layout-content a:visited {
-	color: #551A8B;
-}
-
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #800080; 
+	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #800080;
+	color: #527bbd;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -136,12 +131,12 @@ h1, h2, h3 {
 }
 
 h1 {
-	/*color: #527bbd; */
-	font-size: 220%;
+	color: #527bbd;
+	font-size: 175%;
 }
 
 h2 {
-	/*color: #5e8cd6;   /* color of the title at == in index.jemdoc*/
+	color: #5e8cd6;
 	padding-top: 0.8em;
 	font-size: 150%;
 }
@@ -151,7 +146,7 @@ h2 + h3 {
 }
 
 h3 {
-	/*color: #5e8cd6;*/
+	color: #5e8cd6;
 	font-size: 125%;
 	border-bottom: none;
 }
